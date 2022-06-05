@@ -10,7 +10,7 @@ export default function Home() {
       <Head>
         <title>Soccer Book</title>
         <meta name="description" content="Best Soccer Shop" />
-        <link rel="icon" href="../public/img/icon.png" />
+        <link rel="icon" href="/icon.png" />
       </Head>
       <Featured/>
       <ProductList/>
