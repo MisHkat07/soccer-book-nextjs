@@ -21,17 +21,17 @@ const Footer = () => {
             <br /> (4122) 867-1010
           </p>
           <p className={styles.text}>
-            2356 K. Lequid Road
+            2356 K. Liquid Road
             <br /> Chattogram, 85022
             <br /> (2334) 867-1011
           </p>
           <p className={styles.text}>
-            2356 K. Lequid Road
+            2356 K. Liquid Road
             <br /> Chattogram, 85022
             <br /> (2334) 867-1011
           </p>
           <p className={styles.text}>
-            2356 K. Lequid Road
+            2356 K. Liquid Road
             <br /> Chattogram, 85022
             <br /> (2334) 867-1011
           </p>

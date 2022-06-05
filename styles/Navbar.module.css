@@ -24,6 +24,11 @@
   justify-content: flex-end;
 }
 
+.icon {
+  width: 100px;
+  height: 100px;
+}
+
 .callButton {
   background-color: white;
   border-radius: 50%;
@@ -80,7 +85,22 @@
     color: #d1411e;
 }
 
+@media screen and (max-width:1080px) {
+  .icon {
+    margin-top: 15px;
+}
+  .item:nth-child(2) {
+    display: none;
+  }
+
+  .item:nth-child(1) {
+    flex: 12;
+  }
+}
 @media screen and (max-width:480px) {
+  .icon {
+    margin-top: 15px;
+}
   .item:nth-child(2) {
     display: none;
   }
