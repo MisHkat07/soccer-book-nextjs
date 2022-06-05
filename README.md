@@ -1,4 +1,6 @@
-A Simple responsive landing page project with Next.Js.
+A Simple responsive landing page project with Next.Js. The idea is based on making an online sports shop. It's just for the demo purpose in a short time that how the website gonna look like. I could use any library to make that image slider animation and also for the other stuff. But I choose not to create any dependency on this short time project. In the future To make this website on a larger scale, I could use library and functionalities in order to make a complete web service. For example, I can use AXIOS for fetching data in the frontend, or If it's about server sider rendering we know NextJs is the ultimate solution. I can use EJS for Server Sider template rendering. And also I could use NodeJs in the backend because it's gonna be totally a data-driven service. As database, I believe MongoDB/Redis would be the best choice for managing the users, credentials, records and products etc.
+
+
 
 ## Getting Started
 
